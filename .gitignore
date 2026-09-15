@@ -1,0 +1,9 @@
+# 選手個人データ（氏名・学年・身長・学校名）はリポジトリに置かない。
+# 正本は Google Drive の共有フォルダおよびJBA帳票のみで管理する。
+data/members_master.csv
+data/members_*.csv
+*.xlsx
+*.b64
+
+__pycache__/
+*.pyc
